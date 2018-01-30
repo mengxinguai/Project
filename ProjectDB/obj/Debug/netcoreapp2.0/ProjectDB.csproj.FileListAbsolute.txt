@@ -1,0 +1,9 @@
+E:\Project\Project\ProjectDB\bin\Debug\netcoreapp2.0\ProjectDB.deps.json
+E:\Project\Project\ProjectDB\bin\Debug\netcoreapp2.0\ProjectDB.dll
+E:\Project\Project\ProjectDB\bin\Debug\netcoreapp2.0\ProjectDB.pdb
+E:\Project\Project\ProjectDB\obj\Debug\netcoreapp2.0\ProjectDB.csprojResolveAssemblyReference.cache
+E:\Project\Project\ProjectDB\obj\Debug\netcoreapp2.0\ProjectDB.csproj.CoreCompileInputs.cache
+E:\Project\Project\ProjectDB\obj\Debug\netcoreapp2.0\ProjectDB.AssemblyInfoInputs.cache
+E:\Project\Project\ProjectDB\obj\Debug\netcoreapp2.0\ProjectDB.AssemblyInfo.cs
+E:\Project\Project\ProjectDB\obj\Debug\netcoreapp2.0\ProjectDB.dll
+E:\Project\Project\ProjectDB\obj\Debug\netcoreapp2.0\ProjectDB.pdb

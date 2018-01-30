@@ -1,0 +1,14 @@
+E:\Project\Project\ProjectText\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Project\Project\ProjectText\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Project\Project\ProjectText\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Project\Project\ProjectText\bin\Debug\netcoreapp2.0\ProjectText.deps.json
+E:\Project\Project\ProjectText\bin\Debug\netcoreapp2.0\ProjectText.runtimeconfig.json
+E:\Project\Project\ProjectText\bin\Debug\netcoreapp2.0\ProjectText.runtimeconfig.dev.json
+E:\Project\Project\ProjectText\bin\Debug\netcoreapp2.0\ProjectText.dll
+E:\Project\Project\ProjectText\bin\Debug\netcoreapp2.0\ProjectText.pdb
+E:\Project\Project\ProjectText\obj\Debug\netcoreapp2.0\ProjectText.csprojResolveAssemblyReference.cache
+E:\Project\Project\ProjectText\obj\Debug\netcoreapp2.0\ProjectText.csproj.CoreCompileInputs.cache
+E:\Project\Project\ProjectText\obj\Debug\netcoreapp2.0\ProjectText.AssemblyInfoInputs.cache
+E:\Project\Project\ProjectText\obj\Debug\netcoreapp2.0\ProjectText.AssemblyInfo.cs
+E:\Project\Project\ProjectText\obj\Debug\netcoreapp2.0\ProjectText.dll
+E:\Project\Project\ProjectText\obj\Debug\netcoreapp2.0\ProjectText.pdb

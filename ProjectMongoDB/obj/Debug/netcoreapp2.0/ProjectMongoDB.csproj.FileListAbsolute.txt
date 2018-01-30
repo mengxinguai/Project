@@ -1,0 +1,9 @@
+E:\Project\Project\ProjectMongoDB\bin\Debug\netcoreapp2.0\ProjectMongoDB.deps.json
+E:\Project\Project\ProjectMongoDB\bin\Debug\netcoreapp2.0\ProjectMongoDB.dll
+E:\Project\Project\ProjectMongoDB\bin\Debug\netcoreapp2.0\ProjectMongoDB.pdb
+E:\Project\Project\ProjectMongoDB\obj\Debug\netcoreapp2.0\ProjectMongoDB.csprojResolveAssemblyReference.cache
+E:\Project\Project\ProjectMongoDB\obj\Debug\netcoreapp2.0\ProjectMongoDB.csproj.CoreCompileInputs.cache
+E:\Project\Project\ProjectMongoDB\obj\Debug\netcoreapp2.0\ProjectMongoDB.AssemblyInfoInputs.cache
+E:\Project\Project\ProjectMongoDB\obj\Debug\netcoreapp2.0\ProjectMongoDB.AssemblyInfo.cs
+E:\Project\Project\ProjectMongoDB\obj\Debug\netcoreapp2.0\ProjectMongoDB.dll
+E:\Project\Project\ProjectMongoDB\obj\Debug\netcoreapp2.0\ProjectMongoDB.pdb
